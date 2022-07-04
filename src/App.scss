@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo Bhai 2', cursive;
+    color:white;
+    
+
+}
+a,h2,li{
+    color: white;
+}
+
+// .header{
+//     height: 65px;
+//     background-color: #302929;
+//     display: flex;
+//      align-items: center;
+//     padding: .5rem;
+//     box-sizing: border-box;
+//     justify-content: space-between;
+
+
+// > .logo{
+//     color: #a11313;
+//     font-size: 60px;
+//     font-weight: 1000;
+// }
+// > .nav-menu{
+//     // border: 1px solid red;
+//     width: 100%;
+//     margin-left: 4vmax;
+
+//     > a {
+//         margin: 2vmax;
+//         font-size: 1rem;
+//         font-weight: 300;
+//         text-decoration: none;
+//         color: white;
+//       }
+// }
+
+
+
+
+
+//   .hamburger-menu a{
+//        display: none;
+//    }
+
+// }
+
+
+
+// @media (max-width: 850px) {
+  
+//     a,
+//     h2 {
+//       color: white;
+//     }
+  
+//     .header {
+//       height: 65px;
+      
+  
+//       > .logo {
+//         color: #a11313;
+//         font-size: 40px;
+//         font-weight: 600;
+//       }
+//       > .nav-menu {
+//         // border: 1px solid red;
+//         width: 100%;
+//         margin-left: 2vmax;
+  
+//         > a {
+//           margin: 2vmax;
+//           font-size: 0.8rem;
+          
+//         }
+//       }
+  
+      
+//     }
+//   }
+  
+//   @media (max-width: 690px) {
+    
+//     a,
+//     h2 {
+//       color: white;
+//     }
+  
+//     .header {
+//       height: 50px;
+      
+  
+//       > .logo {
+//         font-size: 30px;
+//       }
+//       > .nav-menu {
+//         // border: 1px solid red;
+//         width: 100%;
+//         margin-left: 2vmax;
+  
+//         > a {
+//           margin: 2vmax;
+//           font-size: 0.6rem;
+//           font-weight: 200;
+//         }
+//       }
+  
+      
+//     }
+//   }
+  
+  
+//   @media (max-width: 550px) {
+    
+//     a,
+//     h2 {
+//       color: white;
+//     }
+  
+//     .header {
+//       height: 40px;
+
+//        > .hamburger-menu a{
+//          display: block;
+//        }
+      
+  
+//       > .logo {
+//         font-size: 30px;
+        
+//       }
+
+//       > .mobile-nav-menu {
+//         grid-column: 2/4;
+//         position: relative;
+//         z-index: 99;
+//       }
+
+//       > .nav-menu {
+//         margin-left: 1vmax;
+//         display: flex;
+  
+//         > a {
+//           margin: .4vmax;
+//           font-size: .5rem;
+//           font-weight: 300;
+          
+//         }
+        
+
+//       }
+  
+      
+//     }
+
+
+//   }
+  

@@ -1,0 +1,34 @@
+.footer{
+    background-color: #302929;
+    height: 100px;
+    width: 100%;
+
+
+    h2 {
+        margin: 0.3rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    p{
+        justify-content: center;
+        display: flex;
+    }
+
+    .social-icons{
+        display: flex;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        
+        i{
+            margin: 7px;
+        }
+    
+    }
+
+
+
+
+}
+
